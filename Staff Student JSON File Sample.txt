@@ -1,0 +1,1720 @@
+
+C:\Data\Tom JSON File Parser>gam whatis 22565@sgs.uk.net 
+User: 22565@sgs.uk.net
+First Name: Dom
+Last Name: Beasley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 112890282235062428594
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:02:46.000Z
+Last login time: 2019-09-23T12:01:54.000Z
+Google Org Unit Path: /Students/2013
+Groups: (8)
+   13-19-asw1 <13-19-asw1@sgs.uk.net>
+   13-19-azs3 <13-19-azs3@sgs.uk.net>
+   13-19-dma1 <13-19-dma1@sgs.uk.net>
+   13-19-eic1 <13-19-eic1@sgs.uk.net>
+   al-ha-fri-2 <al-ha-fri-2@sgs.uk.net>
+   al-hb-fri-2 <al-hb-fri-2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 22567@sgs.uk.net 
+User: 22567@sgs.uk.net
+First Name: Felix
+Last Name: Bennett
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 106854171132559322491
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:02:46.000Z
+Last login time: 2019-09-20T11:50:51.000Z
+Google Org Unit Path: /Students/2013
+Groups: (9)
+   12-19-rmg1 <12-19-rmg1@sgs.uk.net>
+   13-19-atp1 <13-19-atp1@sgs.uk.net>
+   13-19-azs6 <13-19-azs6@sgs.uk.net>
+   13-19-car1 <13-19-car1@sgs.uk.net>
+   13-19-dtp1 <13-19-dtp1@sgs.uk.net>
+   13-19-eap1 <13-19-eap1@sgs.uk.net>
+   al-hb-fri-3 <al-hb-fri-3@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 22569@sgs.uk.net 
+User: 22569@sgs.uk.net
+First Name: Lily
+Last Name: Birnstingl
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 115630121846384770001
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:02:46.000Z
+Last login time: 2019-09-23T10:32:57.000Z
+Google Org Unit Path: /Students/2013
+Groups: (8)
+   13-19-aap1 <13-19-aap1@sgs.uk.net>
+   13-19-azs2 <13-19-azs2@sgs.uk.net>
+   13-19-bel1 <13-19-bel1@sgs.uk.net>
+   13-19-dls1 <13-19-dls1@sgs.uk.net>
+   al-ha-mon-2 <al-ha-mon-2@sgs.uk.net>
+   al-hb-mon-2 <al-hb-mon-2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 22574@sgs.uk.net 
+User: 22574@sgs.uk.net
+First Name: Abi
+Last Name: Bullingham
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 104574804196420807867
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:02:59.000Z
+Last login time: 2019-09-23T08:12:26.000Z
+Google Org Unit Path: /Students/2013
+Groups: (8)
+   13-19-apn1 <13-19-apn1@sgs.uk.net>
+   13-19-azs7 <13-19-azs7@sgs.uk.net>
+   13-19-bbb1 <13-19-bbb1@sgs.uk.net>
+   13-19-csa1 <13-19-csa1@sgs.uk.net>
+   al-ha-mon-2 <al-ha-mon-2@sgs.uk.net>
+   al-hb-mon-2 <al-hb-mon-2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 22575@sgs.uk.net 
+User: 22575@sgs.uk.net
+First Name: Maia
+Last Name: Burt
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 105869813448732883468
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:02:58.000Z
+Last login time: 2019-09-21T09:14:13.000Z
+Google Org Unit Path: /Students/2013
+Groups: (8)
+   13-19-azs2 <13-19-azs2@sgs.uk.net>
+   13-19-car1 <13-19-car1@sgs.uk.net>
+   13-19-dsw1 <13-19-dsw1@sgs.uk.net>
+   13-19-epd1 <13-19-epd1@sgs.uk.net>
+   al-ha-fri-2 <al-ha-fri-2@sgs.uk.net>
+   al-hb-fri-2 <al-hb-fri-2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 22576@sgs.uk.net 
+User: 22576@sgs.uk.net
+First Name: Alex
+Last Name: Butchers
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 102816548176652768475
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:03:21.000Z
+Last login time: 2019-09-23T10:06:53.000Z
+Google Org Unit Path: /Students/2013
+Groups: (8)
+   13-19-asw1 <13-19-asw1@sgs.uk.net>
+   13-19-azs8 <13-19-azs8@sgs.uk.net>
+   13-19-dls1 <13-19-dls1@sgs.uk.net>
+   13-19-ema1 <13-19-ema1@sgs.uk.net>
+   al-ha-fri-2 <al-ha-fri-2@sgs.uk.net>
+   al-hb-wed-3 <al-hb-wed-3@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 23681@sgs.uk.net 
+User: 23681@sgs.uk.net
+First Name: Izzy
+Last Name: Sherrington
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 102596322920156557184
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2015-09-04T00:58:55.000Z
+Last login time: 2019-09-23T09:22:48.000Z
+Google Org Unit Path: /Students/2015
+Groups: (12)
+   11-19-gpf1 <11-19-gpf1@sgs.uk.net>
+   11-19-hpg1 <11-19-hpg1@sgs.uk.net>
+   11-19-ibs1 <11-19-ibs1@sgs.uk.net>
+   11-19-jhg1 <11-19-jhg1@sgs.uk.net>
+   11-19-xen5 <11-19-xen5@sgs.uk.net>
+   11-19-xhr2 <11-19-xhr2@sgs.uk.net>
+   11-19-xmao <11-19-xmao@sgs.uk.net>
+   11-19-xpe4 <11-19-xpe4@sgs.uk.net>
+   11-19-xsd2b <11-19-xsd2b@sgs.uk.net>
+   11-19-xzp2 <11-19-xzp2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year11 <email-studentsyear11@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 23682@sgs.uk.net 
+User: 23682@sgs.uk.net
+First Name: Michael
+Last Name: Shirley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 105723371208130483848
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2015-09-04T00:58:55.000Z
+Last login time: 2019-09-23T14:42:06.000Z
+Google Org Unit Path: /Students/2015
+Groups: (14)
+   11-19-gpf1 <11-19-gpf1@sgs.uk.net>
+   11-19-hbs1 <11-19-hbs1@sgs.uk.net>
+   11-19-ihg1 <11-19-ihg1@sgs.uk.net>
+   11-19-jid1 <11-19-jid1@sgs.uk.net>
+   11-19-yen3 <11-19-yen3@sgs.uk.net>
+   11-19-yhr2 <11-19-yhr2@sgs.uk.net>
+   11-19-ymas <11-19-ymas@sgs.uk.net>
+   11-19-ype3 <11-19-ype3@sgs.uk.net>
+   11-19-ysd1b <11-19-ysd1b@sgs.uk.net>
+   11-19-yzp1 <11-19-yzp1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Form Reps Year 10 <email-formrepsyear10@sgs.uk.net>
+   Email-School Council <email-schoolcouncil@sgs.uk.net>
+   Email-Students Year11 <email-studentsyear11@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 23684@sgs.uk.net 
+User: 23684@sgs.uk.net
+First Name: Charlotte
+Last Name: Smith
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 101038512183142237447
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2015-09-04T00:58:55.000Z
+Last login time: 2019-09-23T08:01:44.000Z
+Google Org Unit Path: /Students/2015
+Groups: (12)
+   11-19-gam1 <11-19-gam1@sgs.uk.net>
+   11-19-hhg1 <11-19-hhg1@sgs.uk.net>
+   11-19-iaf2 <11-19-iaf2@sgs.uk.net>
+   11-19-jbs1 <11-19-jbs1@sgs.uk.net>
+   11-19-yen2 <11-19-yen2@sgs.uk.net>
+   11-19-yhr3 <11-19-yhr3@sgs.uk.net>
+   11-19-ymaf <11-19-ymaf@sgs.uk.net>
+   11-19-ype6 <11-19-ype6@sgs.uk.net>
+   11-19-yss1 <11-19-yss1@sgs.uk.net>
+   11-19-yzp4 <11-19-yzp4@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year11 <email-studentsyear11@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 23685@sgs.uk.net 
+User: 23685@sgs.uk.net
+First Name: Frank
+Last Name: Smith
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 116129927235534584719
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2015-09-04T00:58:56.000Z
+Last login time: 2019-09-23T09:19:53.000Z
+Google Org Unit Path: /Students/2015
+Groups: (12)
+   11-19-gpf1 <11-19-gpf1@sgs.uk.net>
+   11-19-hlsi <11-19-hlsi@sgs.uk.net>
+   11-19-iaf2 <11-19-iaf2@sgs.uk.net>
+   11-19-jic1 <11-19-jic1@sgs.uk.net>
+   11-19-xen5 <11-19-xen5@sgs.uk.net>
+   11-19-xhr1 <11-19-xhr1@sgs.uk.net>
+   11-19-xmasi <11-19-xmasi@sgs.uk.net>
+   11-19-xpe2 <11-19-xpe2@sgs.uk.net>
+   11-19-xsd1a <11-19-xsd1a@sgs.uk.net>
+   11-19-xzp2 <11-19-xzp2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year11 <email-studentsyear11@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24057@sgs.uk.net 
+User: 24057@sgs.uk.net
+First Name: Thea
+Last Name: Hayes
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 115194863080087254427
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:16.000Z
+Last login time: 2019-09-20T08:09:50.000Z
+Google Org Unit Path: /Students/2016
+Groups: (12)
+   10-19-gpd1 <10-19-gpd1@sgs.uk.net>
+   10-19-ham1 <10-19-ham1@sgs.uk.net>
+   10-19-ihh1 <10-19-ihh1@sgs.uk.net>
+   10-19-jls1 <10-19-jls1@sgs.uk.net>
+   10-19-yen1 <10-19-yen1@sgs.uk.net>
+   10-19-yhr3 <10-19-yhr3@sgs.uk.net>
+   10-19-ymaca <10-19-ymaca@sgs.uk.net>
+   10-19-ype5 <10-19-ype5@sgs.uk.net>
+   10-19-ysd2a <10-19-ysd2a@sgs.uk.net>
+   10-19-yzp5 <10-19-yzp5@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year10 <email-studentsyear10@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24059@sgs.uk.net 
+User: 24059@sgs.uk.net
+First Name: Byron
+Last Name: Hemsley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 104203493964337753436
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:05.000Z
+Last login time: 2019-09-20T13:23:42.000Z
+Google Org Unit Path: /Students/2016
+Groups: (12)
+   10-19-gte1 <10-19-gte1@sgs.uk.net>
+   10-19-hbs1 <10-19-hbs1@sgs.uk.net>
+   10-19-iad1 <10-19-iad1@sgs.uk.net>
+   10-19-jhh1 <10-19-jhh1@sgs.uk.net>
+   10-19-yen3 <10-19-yen3@sgs.uk.net>
+   10-19-yhr2 <10-19-yhr2@sgs.uk.net>
+   10-19-ymapb <10-19-ymapb@sgs.uk.net>
+   10-19-ype1 <10-19-ype1@sgs.uk.net>
+   10-19-ysd2b <10-19-ysd2b@sgs.uk.net>
+   10-19-yzp6 <10-19-yzp6@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year10 <email-studentsyear10@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24060@sgs.uk.net 
+User: 24060@sgs.uk.net
+First Name: Will
+Last Name: Henry
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 116680052701590369555
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:07.000Z
+Last login time: 2019-09-20T11:40:44.000Z
+Google Org Unit Path: /Students/2016
+Groups: (12)
+   10-19-ghg2 <10-19-ghg2@sgs.uk.net>
+   10-19-hte1 <10-19-hte1@sgs.uk.net>
+   10-19-ibe1 <10-19-ibe1@sgs.uk.net>
+   10-19-jpg1 <10-19-jpg1@sgs.uk.net>
+   10-19-yen1 <10-19-yen1@sgs.uk.net>
+   10-19-yhr4 <10-19-yhr4@sgs.uk.net>
+   10-19-ymafb <10-19-ymafb@sgs.uk.net>
+   10-19-ype4 <10-19-ype4@sgs.uk.net>
+   10-19-ysd1 <10-19-ysd1@sgs.uk.net>
+   10-19-yzp6 <10-19-yzp6@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year10 <email-studentsyear10@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24061@sgs.uk.net 
+User: 24061@sgs.uk.net
+First Name: Luke
+Last Name: Higgins
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 114194809196444571127
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:09.000Z
+Last login time: 2019-09-23T16:46:15.000Z
+Google Org Unit Path: /Students/2016
+Groups: (12)
+   10-19-gls1 <10-19-gls1@sgs.uk.net>
+   10-19-haf1 <10-19-haf1@sgs.uk.net>
+   10-19-ipg1 <10-19-ipg1@sgs.uk.net>
+   10-19-jhg1 <10-19-jhg1@sgs.uk.net>
+   10-19-xen6 <10-19-xen6@sgs.uk.net>
+   10-19-xhr2 <10-19-xhr2@sgs.uk.net>
+   10-19-xmafa <10-19-xmafa@sgs.uk.net>
+   10-19-xpe1 <10-19-xpe1@sgs.uk.net>
+   10-19-xsd2d <10-19-xsd2d@sgs.uk.net>
+   10-19-xzp6 <10-19-xzp6@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year10 <email-studentsyear10@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24342@sgs.uk.net 
+User: 24342@sgs.uk.net
+First Name: Jacob
+Last Name: Tofts
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 114697845457075904973
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:56.000Z
+Last login time: 2019-09-23T11:35:32.000Z
+Google Org Unit Path: /Students/2014
+Groups: (7)
+   12-19-azs11 <12-19-azs11@sgs.uk.net>
+   12-19-bls1 <12-19-bls1@sgs.uk.net>
+   12-19-dhh1 <12-19-dhh1@sgs.uk.net>
+   12-19-ehg1 <12-19-ehg1@sgs.uk.net>
+   12-19-q1ze1 <12-19-q1ze1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year12 <email-studentsyear12@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24346@sgs.uk.net 
+User: 24346@sgs.uk.net
+First Name: Leo
+Last Name: West
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 101728870094705465868
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:57.000Z
+Last login time: 2019-09-23T10:36:20.000Z
+Google Org Unit Path: /Students/2014
+Groups: (6)
+   12-19-asw1 <12-19-asw1@sgs.uk.net>
+   12-19-azs11 <12-19-azs11@sgs.uk.net>
+   12-19-bsb1 <12-19-bsb1@sgs.uk.net>
+   12-19-ehs1 <12-19-ehs1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year12 <email-studentsyear12@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24349@sgs.uk.net 
+User: 24349@sgs.uk.net
+First Name: Hope
+Last Name: Williams
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 100970232778643250297
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:32:00.000Z
+Last login time: 2019-09-23T13:14:55.000Z
+Google Org Unit Path: /Students/2014
+Groups: (6)
+   12-19-azs11 <12-19-azs11@sgs.uk.net>
+   12-19-ben1 <12-19-ben1@sgs.uk.net>
+   12-19-dad1 <12-19-dad1@sgs.uk.net>
+   12-19-esw1 <12-19-esw1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year12 <email-studentsyear12@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24350@sgs.uk.net 
+User: 24350@sgs.uk.net
+First Name: Nathan
+Last Name: Willmer
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 117014547008925388497
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:57.000Z
+Last login time: 2019-09-17T11:38:26.000Z
+Google Org Unit Path: /Students/2014
+Groups: (6)
+   12-19-abb1 <12-19-abb1@sgs.uk.net>
+   12-19-azs11 <12-19-azs11@sgs.uk.net>
+   12-19-bpn1 <12-19-bpn1@sgs.uk.net>
+   12-19-dpn1 <12-19-dpn1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year12 <email-studentsyear12@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24352@sgs.uk.net 
+User: 24352@sgs.uk.net
+First Name: Holly
+Last Name: Yule
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 116446862060038922464
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-09-05T21:31:59.000Z
+Last login time: 2019-09-23T17:33:05.000Z
+Google Org Unit Path: /Students/2014
+Groups: (6)
+   12-19-ahs1 <12-19-ahs1@sgs.uk.net>
+   12-19-azs11 <12-19-azs11@sgs.uk.net>
+   12-19-dpe1 <12-19-dpe1@sgs.uk.net>
+   12-19-eel1 <12-19-eel1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year12 <email-studentsyear12@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24601@sgs.uk.net 
+User: 24601@sgs.uk.net
+First Name: Joshua
+Last Name: Hemsley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 117348548492193124434
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-08-18T00:20:34.000Z
+Last login time: 2019-09-23T11:39:32.000Z
+Google Org Unit Path: /Students/2017
+Groups: (12)
+   09-19-gpf1 <09-19-gpf1@sgs.uk.net>
+   09-19-hte1 <09-19-hte1@sgs.uk.net>
+   09-19-iss2 <09-19-iss2@sgs.uk.net>
+   09-19-jbs1 <09-19-jbs1@sgs.uk.net>
+   09-19-yen7 <09-19-yen7@sgs.uk.net>
+   09-19-yhr3 <09-19-yhr3@sgs.uk.net>
+   09-19-ymapa <09-19-ymapa@sgs.uk.net>
+   09-19-ype1 <09-19-ype1@sgs.uk.net>
+   09-19-yss2 <09-19-yss2@sgs.uk.net>
+   09-19-yzp3 <09-19-yzp3@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year09 <email-studentsyear09@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24602@sgs.uk.net 
+User: 24602@sgs.uk.net
+First Name: Alastair
+Last Name: Hilditch
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 116378935274764983074
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-08-18T00:20:34.000Z
+Last login time: 2019-09-23T10:49:56.000Z
+Google Org Unit Path: /Students/2017
+Groups: (12)
+   09-19-gbb1 <09-19-gbb1@sgs.uk.net>
+   09-19-hic1 <09-19-hic1@sgs.uk.net>
+   09-19-itr1 <09-19-itr1@sgs.uk.net>
+   09-19-jap1 <09-19-jap1@sgs.uk.net>
+   09-19-xen1 <09-19-xen1@sgs.uk.net>
+   09-19-xhr5 <09-19-xhr5@sgs.uk.net>
+   09-19-xmafb <09-19-xmafb@sgs.uk.net>
+   09-19-xpe5 <09-19-xpe5@sgs.uk.net>
+   09-19-xsd1e <09-19-xsd1e@sgs.uk.net>
+   09-19-xzp6 <09-19-xzp6@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year09 <email-studentsyear09@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24603@sgs.uk.net 
+User: 24603@sgs.uk.net
+First Name: Samuel
+Last Name: Hilton
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 103582322752157780870
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-08-18T00:20:34.000Z
+Last login time: 2019-09-23T12:38:59.000Z
+Google Org Unit Path: /Students/2017
+Groups: (12)
+   09-19-gat1 <09-19-gat1@sgs.uk.net>
+   09-19-hte1 <09-19-hte1@sgs.uk.net>
+   09-19-iss1 <09-19-iss1@sgs.uk.net>
+   09-19-jic1 <09-19-jic1@sgs.uk.net>
+   09-19-yen2 <09-19-yen2@sgs.uk.net>
+   09-19-yhr1 <09-19-yhr1@sgs.uk.net>
+   09-19-ymaca <09-19-ymaca@sgs.uk.net>
+   09-19-ype3 <09-19-ype3@sgs.uk.net>
+   09-19-yss1 <09-19-yss1@sgs.uk.net>
+   09-19-yzp2 <09-19-yzp2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year09 <email-studentsyear09@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 24604@sgs.uk.net 
+User: 24604@sgs.uk.net
+First Name: Florence
+Last Name: Holt
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 108095696306244502449
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-08-18T00:20:34.000Z
+Last login time: 2019-09-22T19:25:08.000Z
+Google Org Unit Path: /Students/2017
+Groups: (12)
+   09-19-gsh1 <09-19-gsh1@sgs.uk.net>
+   09-19-haf2 <09-19-haf2@sgs.uk.net>
+   09-19-ihf1 <09-19-ihf1@sgs.uk.net>
+   09-19-jhg1 <09-19-jhg1@sgs.uk.net>
+   09-19-yen7 <09-19-yen7@sgs.uk.net>
+   09-19-yhr2 <09-19-yhr2@sgs.uk.net>
+   09-19-ymapa <09-19-ymapa@sgs.uk.net>
+   09-19-ype3 <09-19-ype3@sgs.uk.net>
+   09-19-ysd2 <09-19-ysd2@sgs.uk.net>
+   09-19-yzp2 <09-19-yzp2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year09 <email-studentsyear09@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25421@sgs.uk.net 
+User: 25421@sgs.uk.net
+First Name: Madeline
+Last Name: Molony
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 100093852164269299068
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2018-08-24T22:07:13.000Z
+Last login time: 2019-09-23T11:52:10.000Z
+Google Org Unit Path: /Students/2018
+Groups: (17)
+   08-19-xad3 <08-19-xad3@sgs.uk.net>
+   08-19-xam3 <08-19-xam3@sgs.uk.net>
+   08-19-xar3 <08-19-xar3@sgs.uk.net>
+   08-19-xen3 <08-19-xen3@sgs.uk.net>
+   08-19-xhg3 <08-19-xhg3@sgs.uk.net>
+   08-19-xhh3 <08-19-xhh3@sgs.uk.net>
+   08-19-xhr3 <08-19-xhr3@sgs.uk.net>
+   08-19-xic3 <08-19-xic3@sgs.uk.net>
+   08-19-xlg3 <08-19-xlg3@sgs.uk.net>
+   08-19-xma3 <08-19-xma3@sgs.uk.net>
+   08-19-xpe4 <08-19-xpe4@sgs.uk.net>
+   08-19-xpf6 <08-19-xpf6@sgs.uk.net>
+   08-19-xsd3 <08-19-xsd3@sgs.uk.net>
+   08-19-xty6 <08-19-xty6@sgs.uk.net>
+   08-19-xzr3 <08-19-xzr3@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year08-CS <email-studentsyear08-cs@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25422@sgs.uk.net 
+User: 25422@sgs.uk.net
+First Name: Henry
+Last Name: Morley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 108327000431893546077
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2018-08-24T22:07:13.000Z
+Last login time: 2019-09-23T11:59:12.000Z
+Google Org Unit Path: /Students/2018
+Groups: (17)
+   08-19-yad3 <08-19-yad3@sgs.uk.net>
+   08-19-yam3 <08-19-yam3@sgs.uk.net>
+   08-19-yar3 <08-19-yar3@sgs.uk.net>
+   08-19-yen3 <08-19-yen3@sgs.uk.net>
+   08-19-yhg3 <08-19-yhg3@sgs.uk.net>
+   08-19-yhh3 <08-19-yhh3@sgs.uk.net>
+   08-19-yhr3 <08-19-yhr3@sgs.uk.net>
+   08-19-yic3 <08-19-yic3@sgs.uk.net>
+   08-19-ylf3 <08-19-ylf3@sgs.uk.net>
+   08-19-yma3 <08-19-yma3@sgs.uk.net>
+   08-19-ype3 <08-19-ype3@sgs.uk.net>
+   08-19-ypf4 <08-19-ypf4@sgs.uk.net>
+   08-19-ysd3 <08-19-ysd3@sgs.uk.net>
+   08-19-yty4 <08-19-yty4@sgs.uk.net>
+   08-19-yzr3 <08-19-yzr3@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year08-CS <email-studentsyear08-cs@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25423@sgs.uk.net 
+User: 25423@sgs.uk.net
+First Name: Chloe
+Last Name: Morris
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 104075868640761367560
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2018-08-24T22:07:13.000Z
+Last login time: 2019-09-23T08:33:03.000Z
+Google Org Unit Path: /Students/2018
+Groups: (18)
+   08-19-xad1 <08-19-xad1@sgs.uk.net>
+   08-19-xam1 <08-19-xam1@sgs.uk.net>
+   08-19-xar1 <08-19-xar1@sgs.uk.net>
+   08-19-xen1 <08-19-xen1@sgs.uk.net>
+   08-19-xhg1 <08-19-xhg1@sgs.uk.net>
+   08-19-xhh1 <08-19-xhh1@sgs.uk.net>
+   08-19-xhr1 <08-19-xhr1@sgs.uk.net>
+   08-19-xic1 <08-19-xic1@sgs.uk.net>
+   08-19-xlf1 <08-19-xlf1@sgs.uk.net>
+   08-19-xma1 <08-19-xma1@sgs.uk.net>
+   08-19-xpe3 <08-19-xpe3@sgs.uk.net>
+   08-19-xpf2 <08-19-xpf2@sgs.uk.net>
+   08-19-xsd1 <08-19-xsd1@sgs.uk.net>
+   08-19-xty2 <08-19-xty2@sgs.uk.net>
+   08-19-xzr1 <08-19-xzr1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-PEAPS-Year07-CS <email-peaps-year07-cs@sgs.uk.net>
+   Email-Students Year08-CS <email-studentsyear08-cs@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25887@sgs.uk.net 
+User: 25887@sgs.uk.net
+First Name: Reagan
+Last Name: Macdonald
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 100864203665178817974
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2019-07-29T12:05:04.000Z
+Last login time: 2019-09-23T18:06:22.000Z
+Google Org Unit Path: /Students/2019
+Groups: (17)
+   07-19-aad2 <07-19-aad2@sgs.uk.net>
+   07-19-aam2 <07-19-aam2@sgs.uk.net>
+   07-19-aar2 <07-19-aar2@sgs.uk.net>
+   07-19-aen2 <07-19-aen2@sgs.uk.net>
+   07-19-ahg2 <07-19-ahg2@sgs.uk.net>
+   07-19-ahh2 <07-19-ahh2@sgs.uk.net>
+   07-19-ahr2 <07-19-ahr2@sgs.uk.net>
+   07-19-aic2 <07-19-aic2@sgs.uk.net>
+   07-19-alf2 <07-19-alf2@sgs.uk.net>
+   07-19-ama2 <07-19-ama2@sgs.uk.net>
+   07-19-ape2 <07-19-ape2@sgs.uk.net>
+   07-19-apf3 <07-19-apf3@sgs.uk.net>
+   07-19-asd2 <07-19-asd2@sgs.uk.net>
+   07-19-aty3 <07-19-aty3@sgs.uk.net>
+   07-19-azr2 <07-19-azr2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year07-RR <email-studentsyear07-rr@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25888@sgs.uk.net 
+User: 25888@sgs.uk.net
+First Name: Isabella
+Last Name: Martin
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 114173437850613324260
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2019-07-29T12:05:04.000Z
+Last login time: 2019-09-19T14:35:50.000Z
+Google Org Unit Path: /Students/2019
+Groups: (17)
+   07-19-aad1 <07-19-aad1@sgs.uk.net>
+   07-19-aam1 <07-19-aam1@sgs.uk.net>
+   07-19-aar1 <07-19-aar1@sgs.uk.net>
+   07-19-aen1 <07-19-aen1@sgs.uk.net>
+   07-19-ahg1 <07-19-ahg1@sgs.uk.net>
+   07-19-ahh1 <07-19-ahh1@sgs.uk.net>
+   07-19-ahr1 <07-19-ahr1@sgs.uk.net>
+   07-19-aic1 <07-19-aic1@sgs.uk.net>
+   07-19-alf1 <07-19-alf1@sgs.uk.net>
+   07-19-ama1 <07-19-ama1@sgs.uk.net>
+   07-19-ape2 <07-19-ape2@sgs.uk.net>
+   07-19-apf2 <07-19-apf2@sgs.uk.net>
+   07-19-asd1 <07-19-asd1@sgs.uk.net>
+   07-19-aty2 <07-19-aty2@sgs.uk.net>
+   07-19-azr1 <07-19-azr1@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year07-RR <email-studentsyear07-rr@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25889@sgs.uk.net 
+User: 25889@sgs.uk.net
+First Name: Summa
+Last Name: Martin
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 104784515351090197977
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2019-07-29T12:05:04.000Z
+Last login time: 2019-09-13T10:32:01.000Z
+Google Org Unit Path: /Students/2019
+Groups: (17)
+   07-19-bad2 <07-19-bad2@sgs.uk.net>
+   07-19-bam2 <07-19-bam2@sgs.uk.net>
+   07-19-bar2 <07-19-bar2@sgs.uk.net>
+   07-19-ben2 <07-19-ben2@sgs.uk.net>
+   07-19-bhg2 <07-19-bhg2@sgs.uk.net>
+   07-19-bhh2 <07-19-bhh2@sgs.uk.net>
+   07-19-bhr2 <07-19-bhr2@sgs.uk.net>
+   07-19-bic2 <07-19-bic2@sgs.uk.net>
+   07-19-blg2 <07-19-blg2@sgs.uk.net>
+   07-19-bma2 <07-19-bma2@sgs.uk.net>
+   07-19-bpe2 <07-19-bpe2@sgs.uk.net>
+   07-19-bpf3 <07-19-bpf3@sgs.uk.net>
+   07-19-bsd2 <07-19-bsd2@sgs.uk.net>
+   07-19-bty3 <07-19-bty3@sgs.uk.net>
+   07-19-bzr2 <07-19-bzr2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year07-RR <email-studentsyear07-rr@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25890@sgs.uk.net 
+User: 25890@sgs.uk.net
+First Name: Aimee
+Last Name: Mason
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 110845163770922408617
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2019-07-29T12:05:04.000Z
+Last login time: 2019-09-23T11:26:21.000Z
+Google Org Unit Path: /Students/2019
+Groups: (17)
+   07-19-bad2 <07-19-bad2@sgs.uk.net>
+   07-19-bam2 <07-19-bam2@sgs.uk.net>
+   07-19-bar2 <07-19-bar2@sgs.uk.net>
+   07-19-ben2 <07-19-ben2@sgs.uk.net>
+   07-19-bhg2 <07-19-bhg2@sgs.uk.net>
+   07-19-bhh2 <07-19-bhh2@sgs.uk.net>
+   07-19-bhr2 <07-19-bhr2@sgs.uk.net>
+   07-19-bic2 <07-19-bic2@sgs.uk.net>
+   07-19-blg2 <07-19-blg2@sgs.uk.net>
+   07-19-bma2 <07-19-bma2@sgs.uk.net>
+   07-19-bpe2 <07-19-bpe2@sgs.uk.net>
+   07-19-bpf3 <07-19-bpf3@sgs.uk.net>
+   07-19-bsd2 <07-19-bsd2@sgs.uk.net>
+   07-19-bty3 <07-19-bty3@sgs.uk.net>
+   07-19-bzr2 <07-19-bzr2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year07-RR <email-studentsyear07-rr@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis 25891@sgs.uk.net 
+User: 25891@sgs.uk.net
+First Name: Alice
+Last Name: Matson
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 107045419158962035883
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2019-07-29T12:05:04.000Z
+Last login time: 2019-09-23T11:26:46.000Z
+Google Org Unit Path: /Students/2019
+Groups: (17)
+   07-19-bad2 <07-19-bad2@sgs.uk.net>
+   07-19-bam2 <07-19-bam2@sgs.uk.net>
+   07-19-bar2 <07-19-bar2@sgs.uk.net>
+   07-19-ben2 <07-19-ben2@sgs.uk.net>
+   07-19-bhg2 <07-19-bhg2@sgs.uk.net>
+   07-19-bhh2 <07-19-bhh2@sgs.uk.net>
+   07-19-bhr2 <07-19-bhr2@sgs.uk.net>
+   07-19-bic2 <07-19-bic2@sgs.uk.net>
+   07-19-blg2 <07-19-blg2@sgs.uk.net>
+   07-19-bma2 <07-19-bma2@sgs.uk.net>
+   07-19-bpe2 <07-19-bpe2@sgs.uk.net>
+   07-19-bpf2 <07-19-bpf2@sgs.uk.net>
+   07-19-bsd2 <07-19-bsd2@sgs.uk.net>
+   07-19-bty2 <07-19-bty2@sgs.uk.net>
+   07-19-bzr2 <07-19-bzr2@sgs.uk.net>
+   Email-All Students <email-allstudents@sgs.uk.net>
+   Email-Students Year07-RR <email-studentsyear07-rr@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis abelfield@sgs.uk.net 
+User: abelfield@sgs.uk.net
+First Name: Anthony
+Last Name: Belfield
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 114768601079518301786
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:04:32.000Z
+Last login time: 2019-09-23T20:15:20.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECNqcjrHzjaf6zAEiC3ZjYXJkX3Bob3RvKihhMDMwMThiMzJhOGMzMzM2YTJiYmUzMTE0NDQyMzE1ZDJmYmJkZDJiMAHE7bSnJ8FnXJ43QgE_qhB4W4OQ9g
+
+Groups: (11)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-D&T-Hard Tech <email-dt-hardtech@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-PACT <email-pact@sgs.uk.net>
+   Email-PSHE <email-pshe@sgs.uk.net>
+   Email-Teachers Sixth Form <email-teacherssixthform@sgs.uk.net>
+   Email-Teachers Year09 <email-teachersyear09@sgs.uk.net>
+   Email-Teachers Year10 <email-teachersyear10@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year9_Tutors <email-year09_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis aburfiend@sgs.uk.net 
+User: aburfiend@sgs.uk.net
+First Name: Andrea
+Last Name: Burfiend
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 104360610879731811059
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-06T11:37:23.000Z
+Last login time: 2019-09-23T07:27:41.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABDCPOF-dDdj4DCPCILdmNhcmRfcGhvdG8qKDM3YTkyN2QxN2MxZDZlMzNiOWI0N2VlZTEwMWRhZTQxODVhNzk3YWUwAaFqYk-YBJavgVFpobU3Qb70pnpm
+
+Groups: (11)
+   Classroom Teachers <classroom_teachers@sgs.uk.net>
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-BAT <email-bat@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-IIB working party <email-iibworkingparty@sgs.uk.net>
+   Email-KS4 Office Support Team <email-ks4officesupportteam@sgs.uk.net>
+   Email-Support Staff <email-supportstaff@sgs.uk.net>
+   email-uberbat <email-uberbat@sgs.uk.net>
+   Email-Year9_Tutors <email-year09_tutors@sgs.uk.net>
+   Email-Year10_Tutors <email-year10_tutors@sgs.uk.net>
+   Email-Year11_Tutors <email-year11_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis bennett@sgs.uk.net 
+User: bennett@sgs.uk.net
+First Name: Bennett
+Last Name: Bennett
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 112593365275178081797
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:04:35.000Z
+Last login time: 2019-09-23T19:58:28.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECIW86s3s36firgEiC3ZjYXJkX3Bob3RvKigxNDgzMWYyMjQ2MTljZDdjYTc3NDZlNDc0MjhmMzU4MTllMmFhYmEwMAE8thLyCrES1BbkSAfbqTtxFw8wxQ
+
+Groups: (2)
+   Email-Boarding Staff <email-boardingstaff@sgs.uk.net>
+   intranet-staff <intranet-staff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis bgomeze@sgs.uk.net 
+User: bgomeze@sgs.uk.net
+First Name: Becky
+Last Name: Gomeze
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 104934345315310952923
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2016-05-19T11:03:17.000Z
+Last login time: 2019-09-20T12:17:52.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABDCNvD47G8nZS9RCILdmNhcmRfcGhvdG8qKDhhZWZlNGIwZjQwZjg5YWNjMmRkMzU4YTBkNTJiYzE5ZmU2MmZmNWQwAcNe0eiduDoM7lbo-MiZTsSUaeh5
+
+Groups: (17)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-DevelopingLeaders <email-developingleaders@sgs.uk.net>
+   Email-HOF-LL-KSM <email-hof-ll-ksm@sgs.uk.net>
+   Email-HOF <email-hof@sgs.uk.net>
+   Email-KS5 HoF-HoS-LL <email-ks5hof-hos-ll@sgs.uk.net>
+   Email-Learning Leaders <email-learningleaders@sgs.uk.net>
+   Email-Maths <email-maths@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-NQT Mentors <email-nqtmentors@sgs.uk.net>
+   Email-Sixth Form Communication Sheet <email-sixthformcommunicationsheet@sgs.uk.net>
+   Email-Sixth Form Y13 Learning Mentors <email-sixthformy13learningmentors@sgs.uk.net>
+   Email-Sixth Form College Team and Attached Staff <email-sixthfromcollegeteamandattachedstaff@sgs.uk.net>
+   Email-Teachers Sixth Form <email-teacherssixthform@sgs.uk.net>
+   Email-Teachers Year09 <email-teachersyear09@sgs.uk.net>
+   Email-Teachers Year10 <email-teachersyear10@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis canderson@sgs.uk.net 
+User: canderson@sgs.uk.net
+First Name: Colleen
+Last Name: Anderson
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 114949399946883771002
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2018-03-29T22:06:21.000Z
+Last login time: 2019-09-23T07:04:53.000Z
+Google Org Unit Path: /Staff
+Groups: (4)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-SIMS Team <email-simsteam@sgs.uk.net>
+   Email-Support Staff <email-supportstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis carnold@sgs.uk.net 
+User: carnold@sgs.uk.net
+First Name: Caroline
+Last Name: Arnold
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 117122802082147895609
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-09-04T10:12:38.000Z
+Last login time: 2019-09-20T07:30:40.000Z
+Google Org Unit Path: /Staff
+Groups: (5)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-LSM <email-lsm@sgs.uk.net>
+   Email-SEN <email-sen@sgs.uk.net>
+   Email-Support Staff-RR <email-supportstaff-rr@sgs.uk.net>
+   Email-Support Staff <email-supportstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis dhartley@sgs.uk.net 
+User: dhartley@sgs.uk.net
+First Name: Dave
+Last Name: Hartley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 109600438014430518682
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-06-19T12:17:26.000Z
+Last login time: 2019-09-23T14:34:01.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECJq7ppKk8OadhQEiC3ZjYXJkX3Bob3RvKig0OWZiZTZkNjY2MDA2Y2FlMDgxMmRkNTQxMzcxOTRiOGJlNzE5ZWU2MAGAaqYDIJfmuN-cOqU7YKxDyHZiAA
+
+Groups: (15)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Buddies <email-buddies@sgs.uk.net>
+   Email-HOF-LL-KSM <email-hof-ll-ksm@sgs.uk.net>
+   Email-ICT <email-ict@sgs.uk.net>
+   Email-ICT&Business Faculty <email-ictbusinessfaculty@sgs.uk.net>
+   email-ks3learningleaders <email-ks3learningleaders@sgs.uk.net>
+   Email-Learning Leaders <email-learningleaders@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-Sixth Form Communication Sheet <email-sixthformcommunicationsheet@sgs.uk.net>
+   Email-Sixth Form Y12 Learning Mentors <email-sixthformy12learningmentor@sgs.uk.net>
+   Email-Teachers Year07-CS <email-teachersyear07-cs@sgs.uk.net>
+   Email-Teachers Year09 <email-teachersyear09@sgs.uk.net>
+   Email-Teachers Year10 <email-teachersyear10@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis dhegarty@sgs.uk.net 
+User: dhegarty@sgs.uk.net
+First Name: Daniel
+Last Name: Hegarty
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 107792929336559460772
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:04:38.000Z
+Last login time: 2019-09-23T06:27:22.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABDCKTD44qW_oKTbCILdmNhcmRfcGhvdG8qKGZmOGJiZWZhNmFjOWM3MTFmOTI0MzU3Mzc0NDU0NTgwYjNkMDUzOTEwAQXBkyqGKD11jDLnp9ElN9lDR8c1
+
+Other Emails:
+ address: HeadPEFood@sgs.uk.net
+
+Email Aliases:
+  HeadPEFood@sgs.uk.net
+Groups: (18)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-BAT <email-bat@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-DevelopingLeaders <email-developingleaders@sgs.uk.net>
+   Email-HOF-LL-KSM <email-hof-ll-ksm@sgs.uk.net>
+   Email-HOF <email-hof@sgs.uk.net>
+   Email-KS3 Leaders <email-ks3leaders@sgs.uk.net>
+   Email-Learning Leaders <email-learningleaders@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-PE <email-pe@sgs.uk.net>
+   Email-PE&Food Faculty <email-pefoodfaculty@sgs.uk.net>
+   Email-Sixth Form Communication Sheet <email-sixthformcommunicationsheet@sgs.uk.net>
+   Email-Sixth Form Y13 Learning Mentors <email-sixthformy13learningmentors@sgs.uk.net>
+   Email-Teachers Sixth Form <email-teacherssixthform@sgs.uk.net>
+   Email-Teachers Year09 <email-teachersyear09@sgs.uk.net>
+   Email-Teachers Year10 <email-teachersyear10@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis ehill@sgs.uk.net 
+User: ehill@sgs.uk.net
+First Name: Edward
+Last Name: Hill
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: False
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 105092997323120825124
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2019-09-18T13:41:10.000Z
+Last login time: Never
+Google Org Unit Path: /Staff
+Groups: (5)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-PE <email-pe@sgs.uk.net>
+   Email-PE&Food Faculty <email-pefoodfaculty@sgs.uk.net>
+   Email-PGCE students <email-pgcestudents@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis eholyfield@sgs.uk.net 
+User: eholyfield@sgs.uk.net
+First Name: Emily
+Last Name: Holyfield
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 105374334470349137737
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:04:40.000Z
+Last login time: 2019-09-23T12:04:36.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/public/AIbEiAIAAABDCMnOsIqfl97KSiILdmNhcmRfcGhvdG8qKDUwZDgwMjFhMTdjODlhM2UwYTVkOTAyOWM4Y2RlZjYyMzY1Yzk1MmUwAf_gHVDh2mQGEW0AJi2mv0fCVEqu
+
+Groups: (5)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-LSM <email-lsm@sgs.uk.net>
+   Email-SEN <email-sen@sgs.uk.net>
+   Email-Support Staff <email-supportstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis hlamb@sgs.uk.net 
+User: hlamb@sgs.uk.net
+First Name: Helen
+Last Name: Lamb
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 115230671255623816849
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:04:51.000Z
+Last login time: 2019-09-23T11:38:05.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECJGt19H72Y2v0wEiC3ZjYXJkX3Bob3RvKig5YTMzZjFhN2VkMTg3YTFlYzdjY2M0NmNhNmUyODA0NzkwOGQ3OTNjMAEddDZJ8ZKCmvmhRlNnhViSdf9WyQ
+
+Other Emails:
+ address: hlaw@sgs.uk.net
+
+Email Aliases:
+  hlaw@sgs.uk.net
+Groups: (11)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-Food&Nutrition <email-foodnutrition@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-PE <email-pe@sgs.uk.net>
+   Email-PE&Food Faculty <email-pefoodfaculty@sgs.uk.net>
+   Email-PSHE <email-pshe@sgs.uk.net>
+   Email-Teachers Year07-CS <email-teachersyear07-cs@sgs.uk.net>
+   Email-Teachers Year09 <email-teachersyear09@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year08_Tutors <email-year08cs_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis hliley@sgs.uk.net 
+User: hliley@sgs.uk.net
+First Name: Heather
+Last Name: Liley
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 113918429567132970403
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-06-15T11:54:13.000Z
+Last login time: 2019-09-23T07:08:22.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECKPbhKKsvoyUwQEiC3ZjYXJkX3Bob3RvKihkZGIyNGNhMjJjZTExZmNiOTExYjBkYWViYzhiMWRkZjBmYzM1YzJmMAHCVpz_RR5AmYNq2-6hKv40emlKpQ
+
+Groups: (16)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Buddies <email-buddies@sgs.uk.net>
+   Email-DevelopingLeaders <email-developingleaders@sgs.uk.net>
+   Email-D&T-Hard Tech <email-dt-hardtech@sgs.uk.net>
+   Email-D&T Post Holders <email-dtpostholders@sgs.uk.net>
+   Email-HOF-LL-KSM <email-hof-ll-ksm@sgs.uk.net>
+   Email-Learning Leaders <email-learningleaders@sgs.uk.net>
+   Email-PACT <email-pact@sgs.uk.net>
+   Email-PACT Learning Leaders <email-pactlearningleaders@sgs.uk.net>
+   Email-Teachers Sixth Form <email-teacherssixthform@sgs.uk.net>
+   Email-Teachers Year07-RR <email-teachersyear07-rr@sgs.uk.net>
+   Email-Teachers Year08-RR <email-teachersyear08-rr@sgs.uk.net>
+   Email-Teachers Year09 <email-teachersyear09@sgs.uk.net>
+   Email-Teachers Year10 <email-teachersyear10@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis jwaller@sgs.uk.net 
+User: jwaller@sgs.uk.net
+First Name: Jess
+Last Name: Waller
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 117747431143624654098
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2018-06-12T22:07:10.000Z
+Last login time: 2019-09-23T13:15:58.000Z
+Google Org Unit Path: /Staff
+Groups: (11)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-English-KS3 <email-english-ks3@sgs.uk.net>
+   Email-English-KS4 <email-english-ks4@sgs.uk.net>
+   Email-English <email-english@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-Teachers Year07-CS <email-teachersyear07-cs@sgs.uk.net>
+   Email-Teachers Year08-CS <email-teachersyear08-cs@sgs.uk.net>
+   Email-Teachers Year10 <email-teachersyear10@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year08_Tutors <email-year08cs_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis jwilkinson@sgs.uk.net 
+User: jwilkinson@sgs.uk.net
+First Name: James
+Last Name: Wilkinson
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 107841430732851836297
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:04:48.000Z
+Last login time: 2019-09-23T15:55:39.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABDCInr25PL9pbpbCILdmNhcmRfcGhvdG8qKGVkNjBlNjY0MTFiY2ExNmM2YzBkNTc4MzZlNzI3NTMxNTBhMjM0NDQwAR0Ad3JVgkrKKeXkALS9qgL8KXcB
+
+Groups: (9)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   email-house <email-house@sgs.uk.net>
+   Email-Maths <email-maths@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-Teachers Year07-RR <email-teachersyear07-rr@sgs.uk.net>
+   Email-Teachers Year08-RR <email-teachersyear08-rr@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year08RR_Tutors <email-year08rr_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis scarden@sgs.uk.net 
+User: scarden@sgs.uk.net
+First Name: Sarah
+Last Name: Carden
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 105775083109154516794
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:05:00.000Z
+Last login time: 2019-09-23T19:30:22.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABDCLrejazX782SUCILdmNhcmRfcGhvdG8qKGMzYWRhYzFjMTlmYjVjZTJmMzYyMDBjMmMzNGY5NjU2MmE1MWMzZmIwAdGZsXdydA3MGTnu7jgZgtQy-3Ap
+
+Groups: (9)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-History <email-history@sgs.uk.net>
+   Email-Humanities <email-humanities@sgs.uk.net>
+   Email-NEU <email-neu@sgs.uk.net>
+   Email-Teachers Year07-CS <email-teachersyear07-cs@sgs.uk.net>
+   Email-Teachers Year08-CS <email-teachersyear08-cs@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year08_Tutors <email-year08cs_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis scarey@sgs.uk.net 
+User: scarey@sgs.uk.net
+First Name: Simon
+Last Name: Carey
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 108088548943693680903
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2017-06-27T13:43:56.000Z
+Last login time: 2019-09-23T13:15:04.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABDCIei5MmMjZOgcCILdmNhcmRfcGhvdG8qKDgyOWNiMTRlMjMwMGY0MDE3NjdkNGQzZTAxNDU4OTA4N2MwNmQ4ZGQwAd1skeoVl3P4AX9OqZEdsQ9vuNld
+
+Groups: (7)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-ICT <email-ict@sgs.uk.net>
+   Email-ICT&Business Faculty <email-ictbusinessfaculty@sgs.uk.net>
+   Email-Teachers Year07-RR <email-teachersyear07-rr@sgs.uk.net>
+   Email-Teachers Year08-RR <email-teachersyear08-rr@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year08RR_Tutors <email-year08rr_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis scarroll@sgs.uk.net 
+User: scarroll@sgs.uk.net
+First Name: Sarah
+Last Name: Carroll
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 117218206679409628698
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:05:02.000Z
+Last login time: 2019-09-23T12:40:48.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECJqs4Nv799b57gEiC3ZjYXJkX3Bob3RvKigwYmM3Njg5ODI0ZmRkNDFkZjc3MjcwMGE1ODJlNzY2NDYyMDUyZDE0MAHRUFApzIIgzKOlF-I1g44RNuc72Q
+
+Other Emails:
+ address: HeadKS3@sgs.uk.net
+ address: spilling@sgs.uk.net
+
+Email Aliases:
+  spilling@sgs.uk.net
+  HeadKS3@sgs.uk.net
+Groups: (20)
+   Classroom Teachers <classroom_teachers@sgs.uk.net>
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Briefing Notes <email-briefingnotes@sgs.uk.net>
+   Email-Cover Work <email-coverwork@sgs.uk.net>
+   Email-Gifted and Talented Faculty Reps <email-giftedandtalentedfacultyreps@sgs.uk.net>
+   Email-History <email-history@sgs.uk.net>
+   Email-Humanities <email-humanities@sgs.uk.net>
+   Email-KS3 Leaders <email-ks3leaders@sgs.uk.net>
+   Email-KS3 Management Team <email-ks3managementteam@sgs.uk.net>
+   Email-Leadership Team <email-leadershipteam@sgs.uk.net>
+   Email-Remap <email-remap@sgs.uk.net>
+   Email-SEN <email-sen@sgs.uk.net>
+   Email-Sixth Form Communication Sheet <email-sixthformcommunicationsheet@sgs.uk.net>
+   Email-Teachers Year07-RR <email-teachersyear07-rr@sgs.uk.net>
+   Email-Teachers Year11 <email-teachersyear11@sgs.uk.net>
+   Email-Teaching Staff <email-teachingstaff@sgs.uk.net>
+   Email-Year7_Tutors <email-year07cs_tutors@sgs.uk.net>
+   Email-Year07RR_Tutors <email-year07rr_tutors@sgs.uk.net>
+   Email-Year08_Tutors <email-year08cs_tutors@sgs.uk.net>
+   Email-Year08RR_Tutors <email-year08rr_tutors@sgs.uk.net>
+Licenses:
+
+C:\Data\Tom JSON File Parser>gam whatis sdiplock@sgs.uk.net 
+User: sdiplock@sgs.uk.net
+First Name: Stephen
+Last Name: Diplock
+Is a Super Admin: False
+Is Delegated Admin: False
+2-step enrolled: False
+2-step enforced: False
+Has Agreed to Terms: True
+IP Whitelisted: False
+Account Suspended: False
+Is Archived: False
+Must Change Password: False
+Google Unique ID: 112013808079055384380
+Customer ID: C03synjn5
+Mailbox is setup: True
+Included in GAL: True
+Creation Time: 2014-11-13T09:05:00.000Z
+Last login time: 2019-09-23T07:00:54.000Z
+Google Org Unit Path: /Staff
+Photo URL: https://www.google.com/s2/photos/private/AIbEiAIAAABECLzewb682efcpgEiC3ZjYXJkX3Bob3RvKihiNjAwN2MzNGVjYmJmOTJlYzcwOTA1NjU5YWU0NWNhY2YxMDAzYTE1MAEvuBDqeeQwBRoLmRiARZFznmtGmg
+
+Other Emails:
+ address: FacilitiesManager@sgs.uk.net
+
+Email Aliases:
+  FacilitiesManager@sgs.uk.net
+Groups: (4)
+   Email-All Staff <email-allstaff@sgs.uk.net>
+   Email-Estates Team <email-estatesteam@sgs.uk.net>
+   Email-Support Staff <email-supportstaff@sgs.uk.net>
+   health-safety-o365-edit <health-safety-o365-edit@sgs.uk.net>
+Licenses:

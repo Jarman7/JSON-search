@@ -1,0 +1,90 @@
+What Do I Want 23/09/19 v001
+===================================
+
+If you look at the file "Staff Student JSON File Sample.txt"
+This is a sample of the data output that I want your program to be able to parse.
+The file could be anything up to 74,000 lines
+
+I would like to be able to filter the data on any of the tags for example
+
+User:
+Account Suspended:
+Last login time:
+
+I would like an .exe program file which refrences a text config file "config.txt", the text file is where I could enter my requirements.
+For example
+
+-----------------------------------------------
+Config.txt File
+
+Search 1: "User:"
+Search 2: "Last login time:"
+
+-----------------------------------------------
+
+I then run the exe which refrences the config file & the output I get is
+sent to a text file "output.txt" for example
+The output can have a space or comma separating the data
+
+------------------------------------------------
+output.txt File
+
+22565@sgs.uk.net 2019-09-23T12:01:54.000Z
+22567@sgs.uk.net 2019-09-20T11:50:51.000Z
+22569@sgs.uk.net 2019-09-23T10:32:57.000Z
+
+
+------------------------------------------------
+
+A maximum of 6 search options in the config file would be ample.
+
+Being able to filter on Groups would be good as well for example
+
+
+-----------------------------------------------
+Config.txt File
+
+Search 1: "User:"
+Search 2: "Groups:"
+
+-----------------------------------------------
+output.txt File
+
+22565@sgs.uk.net 13-19-asw1 <13-19-asw1@sgs.uk.net>
+22565@sgs.uk.net 13-19-azs3 <13-19-azs3@sgs.uk.net>
+22565@sgs.uk.net 13-19-dma1 <13-19-dma1@sgs.uk.net>
+22565@sgs.uk.net 13-19-eic1 <13-19-eic1@sgs.uk.net>
+22565@sgs.uk.net al-ha-fri-2 <al-ha-fri-2@sgs.uk.net>
+22565@sgs.uk.net al-hb-fri-2 <al-hb-fri-2@sgs.uk.net>
+22565@sgs.uk.net Email-All Students <email-allstudents@sgs.uk.net>
+22565@sgs.uk.net Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+22567@sgs.uk.net 12-19-rmg1 <12-19-rmg1@sgs.uk.net>
+22567@sgs.uk.net 13-19-atp1 <13-19-atp1@sgs.uk.net>
+22567@sgs.uk.net 13-19-azs6 <13-19-azs6@sgs.uk.net>
+22567@sgs.uk.net 13-19-car1 <13-19-car1@sgs.uk.net>
+22567@sgs.uk.net 13-19-dtp1 <13-19-dtp1@sgs.uk.net>
+22567@sgs.uk.net 13-19-eap1 <13-19-eap1@sgs.uk.net>
+22567@sgs.uk.net al-hb-fri-3 <al-hb-fri-3@sgs.uk.net>
+22567@sgs.uk.net Email-All Students <email-allstudents@sgs.uk.net>
+22567@sgs.uk.net Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+22569@sgs.uk.net 13-19-aap1 <13-19-aap1@sgs.uk.net>
+22569@sgs.uk.net 13-19-azs2 <13-19-azs2@sgs.uk.net>
+22569@sgs.uk.net 13-19-bel1 <13-19-bel1@sgs.uk.net>
+22569@sgs.uk.net 13-19-dls1 <13-19-dls1@sgs.uk.net>
+22569@sgs.uk.net al-ha-mon-2 <al-ha-mon-2@sgs.uk.net>
+22569@sgs.uk.net al-hb-mon-2 <al-hb-mon-2@sgs.uk.net>
+22569@sgs.uk.net Email-All Students <email-allstudents@sgs.uk.net>
+22569@sgs.uk.net Email-Students Year13 <email-studentsyear13@sgs.uk.net>
+
+
+Additional Notes
+=======================
+
+The program needs to cope with
+I may select a field for example "Groups:" & some users may not have any.
+ 
+
+=================================================
+
+
+
